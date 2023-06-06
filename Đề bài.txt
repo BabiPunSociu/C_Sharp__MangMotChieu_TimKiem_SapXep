@@ -1,0 +1,12 @@
+Bài 4. Chương trình làm việc với mảng 1 chiều
+Thuộc tính
+private int n; //Số phần tử của mảng
+     int[ ] a; //Mảng 1 chiều
+Phương thức
+ Hàm tạo Mang1Chieu(int n) để khởi tạo mảng gồm n phần tử
+ Nhập mảng
+ In mảng ra màn hình
+ Sắp xếp mảng
+     public  void sapxep(int thutu) //thutu = 0: tăng dần, thutu=1: giảm dần
+ Tìm kiếm
+     public  int timkiem(int  m) //Trả về -1 nếu không thấy, trả về vị trí nếu tìm thấy
